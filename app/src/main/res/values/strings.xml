@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car</string>
+    <string name="brand">Створіть свій Opel</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Model">Модель:</string>
+    <string name="engine">Об\'єм двигуна</string>
+    <string name="Color">Колір авто</string>
+</resources>

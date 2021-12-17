@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Adam"
+        android:id="@+id/model_1"
+        android:enabled="true"
+        android:visible="true"/>
+    <item android:title="Agila"
+        android:id="@+id/model_2"
+        android:enabled="true"
+        android:visible="true"/>
+    <item android:title="Cascada"
+        android:id="@+id/model_3"
+        android:enabled="true"
+        android:visible="true"/>
+    <item android:title="Astra"
+        android:id="@+id/model_4"
+        android:enabled="true"
+        android:visible="true"/>
+</menu>
